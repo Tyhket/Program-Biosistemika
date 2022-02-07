@@ -1,0 +1,15 @@
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ProgramExperiment.exe
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ProgramExperiment.deps.json
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ProgramExperiment.runtimeconfig.json
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ProgramExperiment.dll
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ref\ProgramExperiment.dll
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ProgramExperiment.pdb
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgramExperiment.csproj.AssemblyReference.cache
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgramExperiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgramExperiment.AssemblyInfoInputs.cache
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgramExperiment.AssemblyInfo.cs
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgramExperiment.csproj.CoreCompileInputs.cache
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgramExperiment.dll
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ProgramExperiment.dll
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgramExperiment.pdb
+C:\Users\Timi\Desktop\Program 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ProgramExperiment.genruntimeconfig.cache
